@@ -1,1 +1,1 @@
-script that creates a file named exactly
+cript that counts the number of directories and sub-directories in the current directory.
